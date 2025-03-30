@@ -1,2 +1,2 @@
 # Prueba-Git-Github
-rm -rf .git
+rm -rf README.md
